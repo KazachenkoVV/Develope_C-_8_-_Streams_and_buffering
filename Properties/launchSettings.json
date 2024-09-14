@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchFileWithText": {
+      "commandName": "Project",
+      "commandLineArgs": "cs \"int\" df"
+    }
+  }
+}
